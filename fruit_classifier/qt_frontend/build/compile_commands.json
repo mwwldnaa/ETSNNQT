@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/build/FruitClassifier_autogen/include -I/home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -std=gnu++17 -fPIC -o CMakeFiles/FruitClassifier.dir/FruitClassifier_autogen/mocs_compilation.cpp.o -c /home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/build/FruitClassifier_autogen/mocs_compilation.cpp",
+  "file": "/home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/build/FruitClassifier_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/FruitClassifier.dir/FruitClassifier_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/build/FruitClassifier_autogen/include -I/home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -std=gnu++17 -fPIC -o CMakeFiles/FruitClassifier.dir/src/main.cpp.o -c /home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/src/main.cpp",
+  "file": "/home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/src/main.cpp",
+  "output": "CMakeFiles/FruitClassifier.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/build/FruitClassifier_autogen/include -I/home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -std=gnu++17 -fPIC -o CMakeFiles/FruitClassifier.dir/src/mainwindow.cpp.o -c /home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/src/mainwindow.cpp",
+  "file": "/home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/src/mainwindow.cpp",
+  "output": "CMakeFiles/FruitClassifier.dir/src/mainwindow.cpp.o"
+},
+{
+  "directory": "/home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/build/FruitClassifier_autogen/include -I/home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -std=gnu++17 -fPIC -o CMakeFiles/FruitClassifier.dir/src/plotwidget.cpp.o -c /home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/src/plotwidget.cpp",
+  "file": "/home/dimas-dwi-firmansyah/fruit_classifier/qt_frontend/src/plotwidget.cpp",
+  "output": "CMakeFiles/FruitClassifier.dir/src/plotwidget.cpp.o"
+}
+]

@@ -1,0 +1,11 @@
+{
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "${workspaceFolder}/build"
+    ],
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "qvector": "cpp"
+    }
+}
