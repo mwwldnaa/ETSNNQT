@@ -17,7 +17,7 @@ Fruit_classifier merupakan klasifikasi jenis buah menggunakan metode Artificial 
   - Encoding label one-hot
 
 - **Arsitektur Neural Network**:
-  - Fully connected network dengan 1 hidden layer
+  - Fully connected network dengan 16 hidden layer
   - Aktivasi ReLU untuk hidden layer
   - Softmax untuk output layer
   - Loss function: Cross-entropy
